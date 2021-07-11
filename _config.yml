@@ -1,5 +1,5 @@
 title: Stackbit Fresh Theme
-baseurl: '/royal-spruce-aca6a'
+baseurl: 'royal-spruce-aca6a'
 permalink: '/:title/'
 plugins:
   - jekyll-menus
